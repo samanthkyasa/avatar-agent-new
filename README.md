@@ -33,5 +33,4 @@ GROQ_API_KEY=your_api_key
 
 for .env present in the website
 LIVEKIT_URL=your_api_key
-NVIDIA_API_KEY=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
 
